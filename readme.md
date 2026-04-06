@@ -3,6 +3,7 @@
 ![Downloads](https://img.shields.io/github/downloads/osmanonurkoc/ReviOS_Patcher/total)
 ![License](https://img.shields.io/github/license/osmanonurkoc/ReviOS_Patcher)
 ![Release](https://img.shields.io/github/v/release/osmanonurkoc/ReviOS_Patcher)
+
 This repository provides a one-click, unattended deployment script to patch a fresh Windows installation using the **ReviOS Playbook** and the **Ameliorated (AME) CLI Wizard**. 
 
 Instead of manually downloading files and clicking through the Ameliorated UI, this script fully automates the process. It downloads the necessary dependencies, applies essential registry tweaks, executes the ReviOS Playbook with a pre-defined set of optimal parameters, and cleans up after itself upon reboot. Perfect for post-installation setups.
